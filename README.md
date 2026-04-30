@@ -25,6 +25,15 @@ My `settings.json` file contains the following key configurations:
 - **Auto Import Updates**: Always update imports when moving files
 - **Emmet Support**: JavaScript files support Emmet with React syntax
 
+### Dart/Flutter
+- **Format on Save**: Disabled (handled by Flutter tools)
+- **Format on Type**: Enabled for real-time formatting
+- **Selection Highlight**: Disabled for cleaner editing
+- **Snippet Suggestions**: Quick suggestions not prevented by snippets
+- **Suggest Selection**: First suggestion automatically selected
+- **Tab Completion**: Only snippets (no word-based completion)
+- **Word Based Suggestions**: Disabled to reduce noise
+
 ### Visual Theme
 - **Icon Theme**: vscode-icons for better file type recognition
 
@@ -54,6 +63,7 @@ To complement these settings, I recommend installing:
 - **JavaScript/TypeScript** - Built-in VS Code support
 - **HTML/CSS** - Built-in VS Code support
 - **JSON** - Built-in VS Code support
+- **Flutter/Dart** - For mobile app development
 
 #### Productivity
 - **Auto Rename Tag** - Paired tag renaming
