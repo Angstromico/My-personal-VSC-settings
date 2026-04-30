@@ -2,6 +2,8 @@
 
 This repository contains my Visual Studio Code settings and configuration preferences.
 
+![Settings Diagram](.codeviz/diagram/diagram.png)
+
 ## Settings Overview
 
 My `settings.json` file contains the following key configurations:
