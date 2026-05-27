@@ -26,5 +26,10 @@
     "editor.tabCompletion": "onlySnippets",
     "editor.wordBasedSuggestions": "off"
   },
-  "editor.cursorBlinking": "expand"
+  "editor.cursorBlinking": "expand",
+  "[go]": {
+  "editor.defaultFormatter": "golang.go",
+  "editor.formatOnSave": true
+  },
+  "go.formatTool": "goimports"
 }
