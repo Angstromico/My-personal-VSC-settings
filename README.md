@@ -36,6 +36,11 @@ My `settings.json` file contains the following key configurations:
 - **Tab Completion**: Only snippets (no word-based completion)
 - **Word Based Suggestions**: Disabled to reduce noise
 
+### Go
+- **Default Formatter**: `golang.go`
+- **Format on Save**: Enabled for Go files
+- **Format Tool**: `goimports` for organizing imports automatically
+
 ### Visual Theme
 - **Icon Theme**: vscode-icons for better file type recognition
 
@@ -66,6 +71,7 @@ To complement these settings, I recommend installing:
 - **HTML/CSS** - Built-in VS Code support
 - **JSON** - Built-in VS Code support
 - **Flutter/Dart** - For mobile app development
+- **Go** - `golang.go` extension for formatting, language features, and Go tooling
 
 #### Productivity
 - **Auto Rename Tag** - Paired tag renaming
