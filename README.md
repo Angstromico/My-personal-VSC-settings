@@ -78,6 +78,26 @@ To complement these settings, I recommend installing:
 - **Bracket Pair Colorizer** - Visual bracket matching
 - **Indent Rainbow** - Visual indentation guides
 
+## Snippets
+
+This repository includes custom snippets to speed up development.
+
+### Go Snippets
+The `languages/go.json` file contains snippets for Go. To use them:
+1. Open VS Code.
+2. Go to **File > Preferences > Configure User Snippets** (or **Code > Settings > User Snippets** on macOS).
+3. Select **Go** from the list.
+4. Copy the content of `languages/go.json` into the opened `go.json` file in VS Code.
+
+#### Available Go Snippets:
+- `maingo`: Generates a basic Go program template with a `main` function.
+
+### Future Additions
+I plan to expand this collection with more snippets for:
+- **Go**: Additional templates for common patterns and libraries.
+- **Other Languages**: JavaScript, TypeScript, Python, etc.
+- **Frameworks**: React, Flutter, Gin, etc.
+
 ## Installation
 
 1. Clone this repository
