@@ -28,8 +28,9 @@
   },
   "editor.cursorBlinking": "expand",
   "[go]": {
-  "editor.defaultFormatter": "golang.go",
-  "editor.formatOnSave": true
+    "editor.defaultFormatter": "golang.go",
+    "editor.formatOnSave": true
   },
-  "go.formatTool": "goimports"
+  "go.formatTool": "goimports",
+  "dart.flutterHotReloadOnSave": "all"
 }
