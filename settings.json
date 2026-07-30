@@ -32,5 +32,9 @@
     "editor.formatOnSave": true
   },
   "go.formatTool": "goimports",
-  "dart.flutterHotReloadOnSave": "all"
+  "dart.flutterHotReloadOnSave": "all",
+  "[svelte]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
