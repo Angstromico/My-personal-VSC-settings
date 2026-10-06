@@ -36,5 +36,6 @@
   "[svelte]": {
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "editor.fontSize": 18
 }
